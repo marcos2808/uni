@@ -1,0 +1,22 @@
+Desarrollar una libreria llamada "Matrix.js" que contenga:
+
+1. Crear una matriz de n*m (valores opcionales -> 1: crea matriz identidad; 0: crea matriz con ceros (defecto)).
+
+    Ejemplo: var m = new Matriz();
+             m.create (3, 3, 0); 
+
+2. Calcular la matriz traspuesta.
+
+3. Multiplicar la matriz por un escalar.
+
+4. Multiplicar dos matrices.
+
+5. Calcular la inversa de la matriz.
+
+6. Sumar 2 matrices.
+
+7. Restar 2 matrices.
+
+8. addColData(new Array());
+
+9. addRowData(new Array());

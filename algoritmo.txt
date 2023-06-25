@@ -1,0 +1,1 @@
+- La clase Matriz es utilizada para crear una matriz y definir su numero de filas y columnas. El resto de las funciones seran exteriores a esta.
